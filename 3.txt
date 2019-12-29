@@ -1,0 +1,3 @@
+this time I use git commit -am '3.txt created' to see if I can recover this txt with git checkout -- after it's deleted.
+
+new line added here
